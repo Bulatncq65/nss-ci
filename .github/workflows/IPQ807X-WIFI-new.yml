@@ -1,4 +1,4 @@
-name: IPQ807X-WIFI
+name: IPQ807X-WIFI-new
 
 on:
   workflow_dispatch:
